@@ -1,0 +1,108 @@
+@font-face {
+  font-family: "Noto Kufi Arabic";
+  src: url("../webfonts/NotoKufiArabic/NotoKufiArabic-ExtraBold.woff2")
+      format("woff2"),
+    url("../webfonts/NotoKufiArabic/NotoKufiArabic-ExtraBold.woff")
+      format("woff"),
+    url("../webfonts/NotoKufiArabic/NotoKufiArabic-ExtraBold.ttf")
+      format("truetype");
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Noto Kufi Arabic";
+  src: url("../webfonts/NotoKufiArabic/NotoKufiArabic-Bold.woff2")
+      format("woff2"),
+    url("../webfonts/NotoKufiArabic/NotoKufiArabic-Bold.woff") format("woff"),
+    url("../webfonts/NotoKufiArabic/NotoKufiArabic-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Noto Kufi Arabic";
+  src: url("../webfonts/NotoKufiArabic/NotoKufiArabic-ExtraLight.woff2")
+      format("woff2"),
+    url("../webfonts/NotoKufiArabic/NotoKufiArabic-ExtraLight.woff")
+      format("woff"),
+    url("../webfonts/NotoKufiArabic/NotoKufiArabic-ExtraLight.ttf")
+      format("truetype");
+  font-weight: 200;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Noto Kufi Arabic";
+  src: url("../webfonts/NotoKufiArabic/NotoKufiArabic-Medium.woff2")
+      format("woff2"),
+    url("../webfonts/NotoKufiArabic/NotoKufiArabic-Medium.woff") format("woff"),
+    url("../webfonts/NotoKufiArabic/NotoKufiArabic-Medium.ttf")
+      format("truetype");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Noto Kufi Arabic";
+  src: url("../webfonts/NotoKufiArabic/NotoKufiArabic-Regular.woff2")
+      format("woff2"),
+    url("../webfonts/NotoKufiArabic/NotoKufiArabic-Regular.woff") format("woff"),
+    url("../webfonts/NotoKufiArabic/NotoKufiArabic-Regular.ttf")
+      format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Noto Kufi Arabic";
+  src: url("../webfonts/NotoKufiArabic/NotoKufiArabic-Light.woff2")
+      format("woff2"),
+    url("../webfonts/NotoKufiArabic/NotoKufiArabic-Light.woff") format("woff"),
+    url("../webfonts/NotoKufiArabic/NotoKufiArabic-Light.ttf")
+      format("truetype");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Noto Kufi Arabic";
+  src: url("../webfonts/NotoKufiArabic/NotoKufiArabic-SemiBold.woff2")
+      format("woff2"),
+    url("../webfonts/NotoKufiArabic/NotoKufiArabic-SemiBold.woff")
+      format("woff"),
+    url("../webfonts/NotoKufiArabic/NotoKufiArabic-SemiBold.ttf")
+      format("truetype");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Noto Kufi Arabic";
+  src: url("../webfonts/NotoKufiArabic/NotoKufiArabic-Black.woff2")
+      format("woff2"),
+    url("../webfonts/NotoKufiArabic/NotoKufiArabic-Black.woff") format("woff"),
+    url("../webfonts/NotoKufiArabic/NotoKufiArabic-Black.ttf")
+      format("truetype");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Noto Kufi Arabic";
+  src: url("../webfonts/NotoKufiArabic/NotoKufiArabic-Thin.woff2")
+      format("woff2"),
+    url("../webfonts/NotoKufiArabic/NotoKufiArabic-Thin.woff") format("woff"),
+    url("../webfonts/NotoKufiArabic/NotoKufiArabic-Thin.ttf") format("truetype");
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
